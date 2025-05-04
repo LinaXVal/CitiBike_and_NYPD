@@ -5,3 +5,5 @@ Ziel dieser Analyse ist es, aus der Verknüpfung von CitiBike- und NYPD-Unfallda
 
 # Daten
 Die CitiBike Daten für Q1 2025 wurden heruntergeladen und können [hier](https://s3.amazonaws.com/tripdata/index.html) gefunden werden. Die Daten vom NYPD können [hier](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data) herunterladen werden.
+
+Die Ergebnisse samt Code befinden sich [hier](https://github.com/LinaXVal/CitiBike_and_NYPD/blob/main/CitiBike_and_NYPD_notebook.ipynb).
